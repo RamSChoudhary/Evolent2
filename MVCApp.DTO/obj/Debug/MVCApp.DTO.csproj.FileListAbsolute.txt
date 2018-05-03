@@ -1,0 +1,5 @@
+D:\RamTest\MvcApp\MVCApp.DTO\bin\Debug\MVCApp.DTO.dll
+D:\RamTest\MvcApp\MVCApp.DTO\bin\Debug\MVCApp.DTO.pdb
+D:\RamTest\MvcApp\MVCApp.DTO\obj\Debug\MVCApp.DTO.dll
+D:\RamTest\MvcApp\MVCApp.DTO\obj\Debug\MVCApp.DTO.pdb
+D:\RamTest\MvcApp\MVCApp.DTO\obj\Debug\MVCApp.DTO.csprojResolveAssemblyReference.cache
